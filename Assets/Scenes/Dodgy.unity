@@ -1563,7 +1563,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4dd960596b0061743bc8519baa2ce8cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Mover
-  moveSpeed: 5
+  moveSpeed: 11
 --- !u!54 &1358506501
 Rigidbody:
   m_ObjectHideFlags: 0
