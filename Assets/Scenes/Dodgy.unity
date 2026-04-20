@@ -392,7 +392,7 @@ MonoBehaviour:
   priority: 0
   blendDistance: 0
   weight: 1
-  sharedProfile: {fileID: 0}
+  sharedProfile: {fileID: 11400000, guid: 4236057b7d5d2174287ba77a95f2acb6, type: 2}
 --- !u!4 &226913796
 Transform:
   m_ObjectHideFlags: 0
@@ -670,7 +670,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 4dd960596b0061743bc8519baa2ce8cf, type: 3}
   m_Name: 
   m_EditorClassIdentifier: Assembly-CSharp::Mover
-  direction: {x: 0, y: 0, z: 0}
+  x: 0
+  y: 0
+  z: 0
 --- !u!1660057539 &9223372036854775807
 SceneRoots:
   m_ObjectHideFlags: 0
